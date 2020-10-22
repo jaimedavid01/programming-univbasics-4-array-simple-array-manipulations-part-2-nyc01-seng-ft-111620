@@ -12,3 +12,7 @@ def using_uniq(array)
  new_array = array.uniq 
   new_array
 end
+
+def using_flatten(array)
+  
+  
